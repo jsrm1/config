@@ -1,0 +1,4 @@
+player=mpv
+default-stream=best
+player-passthrough=hls
+twitch-disable-hosting

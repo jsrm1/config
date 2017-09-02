@@ -1,0 +1,6 @@
+feh -B black \
+-N \
+--hide-pointer \
+--scroll-step 300 \
+--geometry 500x500 \
+--auto-zoom
